@@ -1,0 +1,19 @@
+trial,condition,set_size,target_present,rt_ms,correct,reader
+1,colour,9,yes,5799.621500000285,True,REAL reader
+4,colour,9,no,13715.738099999726,True,REAL reader
+13,colour,25,yes,2899.036900000283,True,REAL reader
+16,colour,25,no,2391.098800000691,True,REAL reader
+25,colour,49,yes,4695.6066000002465,True,REAL reader
+28,colour,49,no,2915.5105000008916,True,REAL reader
+31,shape,9,yes,5548.3893000000535,True,REAL reader
+34,shape,9,no,3633.9217999993707,True,REAL reader
+43,shape,25,yes,2234.8117000001366,True,REAL reader
+46,shape,25,no,2693.3678000004875,True,REAL reader
+55,shape,49,yes,1951.7000000014377,True,REAL reader
+58,shape,49,no,2689.196899998933,True,REAL reader
+61,conjunction,9,yes,4975.003999999899,True,REAL reader
+64,conjunction,9,no,5231.632199998785,True,REAL reader
+73,conjunction,25,yes,5119.1679000003205,True,REAL reader
+76,conjunction,25,no,4745.678699999189,True,REAL reader
+85,conjunction,49,yes,3651.0242000003927,True,REAL reader
+88,conjunction,49,no,10406.039400000736,True,REAL reader
